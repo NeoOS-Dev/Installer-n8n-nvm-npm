@@ -1,2 +1,2 @@
 
-curl -fsSL https://github.com/NeoOS-Dev/Installer-n8n-nvm-npm/blob/main/Install-N8N | bash
+curl -fsSL https://raw.githubusercontent.com/NeoOS-Dev/Installer-n8n-nvm-npm/main/Install-N8N | bash
